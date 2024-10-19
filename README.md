@@ -10,7 +10,7 @@ Click the image below to watch a video demonstration of the One Pace Viewer on Y
 
 [![One Pace Viewer Demo](https://img.youtube.com/vi/L7baEG-YcUA/0.jpg)](https://www.youtube.com/watch?v=L7baEG-YcUA)
 
-Note: This link will take you to YouTube to watch the video.
+_Note: This link will take you to YouTube to watch the video._
 
 ## Arc Download Instructions
 
