@@ -22,7 +22,7 @@ _Note: This link will take you to YouTube to watch the video._
 <details>
 <summary>Click to expand</summary>
 
-Links are provided in the Zip file or on the One Pace Discord (https://discord.gg/onepace)
+Links are provided in the instructions file or on the One Pace Discord (https://discord.gg/onepace)
 
 </details>
 
