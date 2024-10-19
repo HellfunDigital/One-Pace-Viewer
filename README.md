@@ -29,9 +29,6 @@ Links In Zip or on the One Pace Discord (https://discord.gg/onepace)
 
 **DISCLAIMER:** _The One Pace Viewer is an unofficial, fan-made project. We are not affiliated with, endorsed by, or in any way officially connected to One Pace, One Piece, Toei Animation, Shueisha, Eiichiro Oda, or any of their subsidiaries or affiliates._
 
-_This viewer is designed solely as a tool for individuals who have legally obtained One Pace content to organize and watch their files. We do not provide any One Pace or One Piece content through this viewer.
-"One Piece" is a trademark of Shueisha Inc. All One Piece images, logos, names, and related indicia are the property of their respective owners._
-
 ## Installation
 
 1. Download the desired arcs from the links or One Pace Discord.
@@ -109,3 +106,5 @@ SOFTWARE.
 ## Disclaimer
 
 > **Note:** This project is for personal use only. Please ensure you have the right to use any content you download and add to this viewer. The maintainers of this repository do not claim ownership of One Piece content and encourage supporting the official release.
+>  This viewer is designed solely as a tool for individuals who have legally obtained One Pace content to organize and watch their files. We do not provide any One Pace or One Piece content through this viewer.
+"One Piece" is a trademark of Shueisha Inc. All One Piece images, logos, names, and related indicia are the property of their respective owners.
