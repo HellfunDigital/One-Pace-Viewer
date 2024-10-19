@@ -15,10 +15,7 @@ _Note: This link will take you to YouTube to watch the video._
 > ## Disclaimer
 >
 > **IMPORTANT:** 
-> - This viewer does not provide any One Pace episodes. Users must find and download the episodes themselves.
-> - The One Pace Viewer is an unofficial, fan-made project. We are not affiliated with, endorsed by, or in any way officially connected to One Pace, One Piece, Toei Animation, Shueisha, Eiichiro Oda, or any of their subsidiaries or affiliates.
-> - This project is for personal use only with legally obtained content.
-> - "One Piece" is a trademark of Shueisha Inc. All One Piece images, logos, names, and related indicia are the property of their respective owners.
+> - _This viewer does not provide any One Pace episodes. Users must find and download the episodes themselves. The One Pace Viewer is an unofficial, fan-made project. We are not affiliated with, endorsed by, or in any way officially connected to One Pace, One Piece, Toei Animation, Shueisha, Eiichiro Oda, or any of their subsidiaries or affiliates. This project is for personal use only with legally obtained content. "One Piece" is a trademark of Shueisha Inc. All One Piece images, logos, names, and related indicia are the property of their respective owners._
 
 ## Where to Get Video Files?
 
