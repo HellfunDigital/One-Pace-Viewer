@@ -20,7 +20,7 @@ Links In Zip or on the One Pace Discord (https://discord.gg/onepace)
 
 1. Download the desired arcs from the links or One Pace Discord.
 2. Create a folder named `One Pace` in the root directory of this project.
-3. Download "One Pace Viewer.rar" Extract the downloaded content _(including the empty folders)_ into the appropriate `One Pace` directory.
+3. Download "One Pace Viewer.rar" and Extract the downloaded content _(including the empty folders)_ into the appropriate `One Pace` directory.
 4. Ensure each arc is in its correctly named folder (e.g., `One Pace/Romance Dawn`, `One Pace/Orange Town`, etc.).
 
 ## Usage
