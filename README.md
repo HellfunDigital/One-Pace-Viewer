@@ -5,6 +5,12 @@
 
 Welcome to the One Pace Viewer repository! This project aims to provide an easy way to view and manage One Pace content.
 
+## Video Demonstration
+
+Click the image below to watch a video demonstration of the One Pace Viewer:
+
+[![One Pace Viewer Demo](https://img.youtube.com/vi/L7baEG-YcUA/0.jpg)](https://www.youtube.com/watch?v=L7baEG-YcUA)
+
 ## Arc Download Instructions
 
 To populate this viewer with content, download each arc from the following links:
