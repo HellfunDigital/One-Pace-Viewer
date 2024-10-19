@@ -23,7 +23,14 @@ Links In Zip or on the One Pace Discord (https://discord.gg/onepace)
 
 </details>
 
-**IMPORTANT DISCLAIMER:** This viewer does not provide any One Pace episodes. Users must find and download the episodes themselves. For information on where to find One Pace episodes, please refer to the official One Pace Discord server or other legitimate sources. This viewer is designed only to play content you have legally obtained.
+## Disclaimer
+
+**IMPORTANT:** _This viewer does not provide any One Pace episodes. Users must find and download the episodes themselves. For information on where to find One Pace episodes, please refer to the official One Pace Discord server or other legitimate sources. This viewer is designed only to play content you have legally obtained._
+
+**DISCLAIMER:** _The One Pace Viewer is an unofficial, fan-made project. We are not affiliated with, endorsed by, or in any way officially connected to One Pace, One Piece, Toei Animation, Shueisha, Eiichiro Oda, or any of their subsidiaries or affiliates._
+
+_This viewer is designed solely as a tool for individuals who have legally obtained One Pace content to organize and watch their files. We do not provide any One Pace or One Piece content through this viewer.
+"One Piece" is a trademark of Shueisha Inc. All One Piece images, logos, names, and related indicia are the property of their respective owners._
 
 ## Installation
 
