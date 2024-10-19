@@ -1,6 +1,5 @@
 ![One Pace Viewer](https://cdn.discordapp.com/attachments/1293202461263396924/1297092475063763006/image.png?ex=6714ab00&is=67135980&hm=9fec07da0b890edd1fd7a8452ac4d598de786b5fe656c99bcf37d6cb4a072aa1&)
 
-
 # One Pace Viewer
 
 Welcome to the One Pace Viewer repository! This project aims to provide an easy way to view and manage One Pace content.
@@ -23,6 +22,8 @@ To populate this viewer with content, download each arc from the following links
 Links In Zip or on the One Pace Discord (https://discord.gg/onepace)
 
 </details>
+
+**IMPORTANT DISCLAIMER:** This viewer does not provide any One Pace episodes. Users must find and download the episodes themselves. For information on where to find One Pace episodes, please refer to the official One Pace Discord server or other legitimate sources. This viewer is designed only to play content you have legally obtained.
 
 ## Installation
 
