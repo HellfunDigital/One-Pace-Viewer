@@ -108,3 +108,51 @@ SOFTWARE.
 > **Note:** This project is for personal use only. Please ensure you have the right to use any content you download and add to this viewer. The maintainers of this repository do not claim ownership of One Piece content and encourage supporting the official release.
 >  This viewer is designed solely as a tool for individuals who have legally obtained One Pace content to organize and watch their files. We do not provide any One Pace or One Piece content through this viewer.
 "One Piece" is a trademark of Shueisha Inc. All One Piece images, logos, names, and related indicia are the property of their respective owners.
+
+## Help
+
+### No Videos Showing Up?
+
+If you've opened the One Pace Viewer and you're not seeing any videos, please note:
+
+1. **This viewer does not come with any One Pace episodes pre-installed.** 
+2. You need to find and download the One Pace episodes yourself before using this viewer.
+3. The viewer is simply a tool to organize and play videos you've already downloaded.
+
+### How to Get Started
+
+1. **Find the Episodes**: 
+   - The One Pace Viewer team does not provide links to episodes.
+   - For information on where to find One Pace episodes, please visit the official One Pace Discord server.
+
+2. **Download the Episodes**:
+   - Once you've found a legitimate source, download the episodes for the arcs you want to watch.
+
+3. **Organize the Files**:
+   - Create a main folder named `One Pace` in the same directory as the viewer.
+   - Inside the `One Pace` folder, create subfolders for each arc (e.g., "1 - Romance Dawn", "2 - Orange Town", etc.).
+   - Place the downloaded episode files into their corresponding arc folders.
+
+4. **Folder Structure Example**:
+   ```
+   One Pace Viewer/
+   ├── one-pace-viewer-improved.html
+   ├── One Pace/
+   │   ├── 1 - Romance Dawn/
+   │   │   ├── [One Pace][1-3] Romance Dawn 01 [1080p].mp4
+   │   │   └── [One Pace][1-3] Romance Dawn 02 [1080p].mp4
+   │   ├── 2 - Orange Town/
+   │   │   ├── [One Pace][4-7] Orange Town 01 [1080p].mp4
+   │   │   └── [One Pace][4-7] Orange Town 02 [1080p].mp4
+   │   └── [Other arc folders]
+   ```
+
+5. **Open the Viewer**:
+   - Once your files are organized, open the `one-pace-viewer-improved.html` file in your web browser.
+   - The viewer should now detect your episodes and display them for playback.
+
+If you're still having issues after following these steps, please check that your files are named correctly and placed in the right folders. The viewer relies on a specific folder structure to function properly.
+
+Remember, this viewer is designed for use with legally obtained content only. We encourage supporting the official release of One Piece.
+
+
