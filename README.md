@@ -1,19 +1,65 @@
-One Pace Viewer
+# One Pace Viewer
+
 Welcome to the One Pace Viewer repository! This project aims to provide an easy way to view and manage One Pace content.
-Arc Download Instructions
-To populate this viewer with content, download each arc from links or on the One Pace Discord:
 
-Installation
+## Arc Download Instructions
 
-Download the desired arcs from the links above.
-Create a folder named "One Pace" in the root directory of this project.
-Place the downloaded content in the appropriate folders within the "One Pace" directory.
-Ensure each arc is in its correctly named folder (e.g., One Pace/Romance Dawn, One Pace/Orange Town, etc.).
+To populate this viewer with content, download each arc from the following links:
 
-Usage
-[Include instructions on how to use the One Pace Viewer once content is downloaded]
-Contributing
-We welcome contributions to improve the One Pace Viewer! Please read our Contributing Guidelines for more information on how to get started.
+<details>
+<summary>Where to Get Video Files?</summary>
 
-Disclaimer
-This project is for personal use only. Please ensure you have the right to use any content you download and add to this viewer. The maintainers of this repository do not claim ownership of One Piece content and encourage supporting the official release.
+Links In Zip or on the One Pace Discord (https://discord.gg/onepace)
+
+</details>
+
+## Installation
+
+1. Download the desired arcs from the links or One Pace Discord.
+2. Create a folder named `One Pace` in the root directory of this project.
+3. Place the downloaded content in the appropriate folders within the `One Pace` directory.
+4. Ensure each arc is in its correctly named folder (e.g., `One Pace/Romance Dawn`, `One Pace/Orange Town`, etc.).
+
+## Usage
+
+Once you have downloaded the content and placed it in the correct folders, follow these steps to use the One Pace Viewer:
+
+1. **Open the Viewer**:
+   - Locate the file named `one-pace-viewer-improved.html` in the project directory
+   - Double-click the file to open it in your default web browser
+
+2. **Select Your One Pace Directory**:
+   - When the viewer loads, you'll be prompted to select your One Pace directory
+   - Click the "Choose Directory" button (or similar)
+   - Navigate to and select the `One Pace` folder you created earlier containing all the downloaded arcs
+
+3. **Browse and Watch Content**:
+   - Once you've selected the directory, the viewer will load all available arcs and episodes
+   - Navigate through the arcs and episodes using the interface provided
+   - Click on an episode to start watching
+
+4. **Playback Controls**:
+   - Use the built-in video player controls to play, pause, seek, and adjust volume
+   - You can toggle fullscreen mode by clicking the fullscreen button or pressing F11
+
+5. **Navigation**:
+   - Use the navigation menu or buttons provided to switch between different arcs or return to the main menu
+
+6. **Troubleshooting**:
+   - If the viewer doesn't detect your episodes, ensure you've selected the correct `One Pace` directory
+   - Check that your arc folders and video files are named correctly
+   - If you encounter any issues, try refreshing the page or reopening the HTML file
+
+Remember to respect copyright laws and support the official release of One Piece. This viewer is intended for personal use with legally obtained content only.
+
+## Contributing
+
+We welcome contributions to improve the One Pace Viewer!
+
+## License
+
+[Include appropriate license information]
+
+## Disclaimer
+
+> **Note:** This project is for personal use only. Please ensure you have the right to use any content you download and add to this viewer. The maintainers of this repository do not claim ownership of One Piece content and encourage supporting the official release.
